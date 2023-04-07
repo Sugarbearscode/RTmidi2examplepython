@@ -9,3 +9,4 @@ Found these examples helpful
 https://qiita.com/Dr10_TakeHiro/items/e6df6c9b59869a74f899 << useful to learn how to select the correct interface
 https://rtmidi2.readthedocs.io/en/latest/reference.html << the reference for RTMIDI2
 https://www.cs.cmu.edu/~music/cmsip/readings/davids-midi-spec.htm << quick reference for the MIDI Spec
+https://fmslogo.sourceforge.io/manual/midi-table.html << more stuff on the midi spec / quick lookup 
