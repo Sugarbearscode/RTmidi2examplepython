@@ -1,6 +1,6 @@
 Just an example of a python program that uses rtmidi2 to read messages. 
 
-built on an M1 mac using pycharm ce (dont forget to add the rtmidi2 package)
+built on an M1 mac using pycharm ce (dont forget to add the rtmidi2 package) and an AKAI LPK25 USB Keyboard (which acts as a MIDI device when plugged into your pc).
 
 I used it with an AKAI LPK25 midi keyboard, a I wanted to find out the MIDI channel number the device was sending on but then it morhped into finding out other info like note number/velocity. 
 
